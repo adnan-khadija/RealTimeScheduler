@@ -25,7 +25,7 @@ Ce projet est une application web développée avec [Streamlit](https://streamli
 - Matplotlib
 - Numpy
 
-### Installation de l’Environnement
+## Installation de l’Environnement
 ### Cloner le dépôt 
 git clone https://github.com/adnan-khadija/RealTimeTaskScheduler.git
 ### Accéder au répertoire du projet
