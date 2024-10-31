@@ -27,9 +27,9 @@ Ce projet est une application web développée avec [Streamlit](https://streamli
 
 ## Installation de l’Environnement
 ### Cloner le dépôt 
-git clone https://github.com/adnan-khadija/RealTimeTaskScheduler.git
+git clone https://github.com/adnan-khadija/RealTimeScheduler.git
 ### Accéder au répertoire du projet
-cd RealTimeTaskScheduler
+cd RealTimeScheduler
 ### Active l’environnement virtuel
 .\venv\Scripts\activate
 ### Installation des dépendances :
